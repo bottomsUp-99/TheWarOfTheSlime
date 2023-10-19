@@ -1,7 +1,7 @@
 public class Slime
 {
     String name;
-    int hp;
+    int hp = 10;
     public Slime(String n){
         name = n;
     }
